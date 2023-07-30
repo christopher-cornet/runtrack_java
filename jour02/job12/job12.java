@@ -9,6 +9,6 @@ public class job12 {
         }
       }
     }
-    System.out.println("Le nombre total de combinations est : " + count);
+    System.out.println("Le nombre total de combinaisons est : " + count);
   }
 }
